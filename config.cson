@@ -1,0 +1,35 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: ""
+  core:
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 17
+    preferredLineLength: 120
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: ""
+  "git-blame":
+    columnWidth: 377
+  "linter-eslint":
+    autofix:
+      fixOnSave: true
+  "linter-stylelint":
+    fixOnSave: true
+  "linter-ui-default": {}
+  minimap:
+    plugins:
+      linter: true
+      linterDecorationsZIndex: 0
+  "remote-sync": {}
+  "tree-view":
+    autoReveal: true
+  welcome:
+    showOnStartup: false
+".css.source.twig":
+  editor:
+    autoIndent: false
+    autoIndentOnPaste: false
